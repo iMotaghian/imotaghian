@@ -38,8 +38,8 @@ I am a proactive and enthusiastic developer who values collaboration and continu
 
 I'm always open to discussing new projects, collaboration opportunities, or anything related to Python, Django, and API development.
 
-* **GitHub**: [Your GitHub Profile Link Here, e.g., https://github.com/yourusername]
-* **LinkedIn**: [Your LinkedIn Profile Link Here (Optional)]
-* **Email**: [Your Email Address Here (Optional)]
+* **GitHub**: https://www.github.com/iMotaghian
+* **LinkedIn**: https://www.linkedin.com/in/motaghian/
+* **Email**: motaghian@outlook.com
 
 ---
