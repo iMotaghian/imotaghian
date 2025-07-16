@@ -39,7 +39,7 @@ I am a proactive and enthusiastic developer who values collaboration and continu
 I'm always open to discussing new projects, collaboration opportunities, or anything related to Python, Django, and API development.
 
 * **GitHub**: https://www.github.com/iMotaghian
-* **LinkedIn**: https://www.linkedin.com/in/motaghian/
+* **LinkedIn**: https://www.linkedin.com/in/motaghian
 * **Email**: motaghian@outlook.com
 
 ---
